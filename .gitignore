@@ -1,0 +1,26 @@
+# Qt生成文件
+*.pro.user
+*.autosave
+
+# 编译中间文件
+Makefile*
+*.o
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.obj
+
+# 构建目录
+build-*/
+debug/
+release/
+*.app/
+*.exe
+
+# IDE配置
+.idea/
+.vscode/
+*.suo
+*.user
+
