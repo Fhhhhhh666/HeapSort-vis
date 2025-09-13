@@ -38,7 +38,7 @@ Makefile.*
 *.pro.user.*
 
 ### 可执行文件和库文件 ###
-*.exe
+
 *.dll
 *.so
 *.dylib
