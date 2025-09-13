@@ -1,7 +1,7 @@
 ### 构建目录和编译生成文件 ###
 # 忽略所有构建目录
-build-*/
 build/
+
 release/
 debug/
 
