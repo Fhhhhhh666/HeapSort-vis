@@ -12,7 +12,7 @@ qrc_*.cpp
 *.obj
 
 # 构建目录
-build-*/
+build/
 debug/
 release/
 *.app/
